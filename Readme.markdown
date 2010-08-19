@@ -1,3 +1,5 @@
+**IMPORTANT:** TWOAuthKit has been renamed and is now being maintained at [SSOAuthKit](http://github.com/samsoffes/ssoauthkit)
+
 # TWOAuthKit
 
 TWOAuthKit was designed to making interacting with OAuth 1.0 services as painless as possible. (If you are looking for an OAuth 2.0 client, check out [LROAuth2Client](http://github.com/lukeredpath/lroauth2client).)
